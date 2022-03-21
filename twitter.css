@@ -1,23 +1,27 @@
 *{
     padding: 0;
     margin: 0;
+    
 }
+
 .container{
-    min-width: 1000px;
-    height: 1000px;
-    background-color: rgba(102, 221, 241, .4);
+    width: 1000px;
+    height: 500px;
+    background-color: #fff;
     margin:auto;
-    padding:105px;
+    padding-top:170px ;
+    padding-bottom:150px ;
+    
 
 }
 .white{
-    width:500px;
+    width:50%;
     min-height:400px;
     background-color:rgb(172, 81, 175);
     float:left;
 }
 .blue{
-    width:500px;
+    width:50%;
     min-height:400px;
     background-color:blue;
     float:right;
